@@ -47,3 +47,14 @@ button {
 .orderBtn:hover {
   background: rgb(89, 0, 190);
 }
+.closeBtn {
+  width: 200px;
+  margin-left: 14px;
+  background: grey;
+  border: none;
+  cursor: pointer;
+}
+.closeBtn:hover {
+  
+  background: #000000;
+}
