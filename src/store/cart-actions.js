@@ -47,6 +47,7 @@ export const sendCartData = (cart) => {
       message: 'Sending Request Successful',
       type: 'success'
     }));
+    console.log(data)
   }
   try{
     await sendRequest()
